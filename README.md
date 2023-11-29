@@ -1,5 +1,5 @@
 # VICReg-Cifar10
-This repository contains the implementation of the paper VICReg: Variance-Invariance-Covariance REGULARIZATION FOR Self-Supervised Learning. 
+This repository contains the implementation of the paper VICReg: Variance-Invariance-Covariance REGULARIZATION FOR Self-Supervised Learning on Cifar10 Dataset. 
 
 
 [Link to the paper](https://arxiv.org/pdf/2105.04906.pdf)
