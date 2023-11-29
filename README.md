@@ -1,6 +1,7 @@
 # VICReg-Cifar10
 This repository contains the implementation of the paper VICReg: Variance-Invariance-Covariance REGULARIZATION FOR Self-Supervised Learning. 
-Link to paper : https://arxiv.org/pdf/2105.04906.pdf
+Link to paper : 
+[Link to the paper](https://arxiv.org/pdf/2105.04906.pdf)
 
 Results :
 |Models|Train Accuracy(%) |Test Accuracy(%)|
